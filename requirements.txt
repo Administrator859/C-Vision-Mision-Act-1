@@ -1,0 +1,9 @@
+##DOWNLOAD 2 APPLICATION##
+
+VS Code User 2019= https://code.visualstudio.com/
+
+YouTube Tutorial = https://www.youtube.com/watch?v=a6WPeTG1QEk
+
+.NET Core 3.1.7 = https://dotnet.microsoft.com/download
+
+#####YOU NEED TO DOWNLOAD THE 2 APPLICATION TO RUN C#####
