@@ -1,0 +1,52 @@
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.exe
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.deps.json
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.json
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\CPROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.exe
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.deps.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\bin\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#PROJECTS\obj\Debug\netcoreapp3.1\CPROJECTS.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.exe
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.deps.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\PROGRAMS\C#COMPUTER PROJECTS\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.genruntimeconfig.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.exe
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.deps.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.runtimeconfig.dev.json
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\bin\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.csprojAssemblyReference.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfoInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.AssemblyInfo.cs
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.csproj.CoreCompileInputs.cache
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.dll
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.pdb
+C:\Users\cmdbe\Desktop\C#COMPUTER\BENDIGOSA\10_St. Lorenzo Ruiz_Bendigosa, Cyrus Mydwyn_Hands-on_Activity_1_Quarter_1\obj\Debug\netcoreapp3.1\CPROJECTS.genruntimeconfig.cache
